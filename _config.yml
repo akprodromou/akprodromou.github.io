@@ -12,7 +12,7 @@ author:
   linkedin: "https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6/"
 
 # Theme settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 # Plugins 
 plugins:
