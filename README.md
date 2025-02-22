@@ -10,7 +10,7 @@ This site showcases my projects in **Data Visualization**, **Data Analysis** and
 - Blog with insights on data and design
 
 ## Visit My Portfolio
-[antonis.github.io](https://akprodromou.github.io/)
+[akprodromou.github.io](https://akprodromou.github.io/)
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6/)
