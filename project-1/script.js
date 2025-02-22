@@ -1,6 +1,6 @@
 // Load Data
-d3.csv("../departments_funding.csv").then(fundingData => {
-    d3.json("../word_counts_by_department.json").then(wordData => {
+d3.csv("data/departments_funding.csv").then(fundingData => {
+    d3.json("data/word_counts_by_department.json").then(wordData => {
 
         const width = 900, height = 1200;
         
