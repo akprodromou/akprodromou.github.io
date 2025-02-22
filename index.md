@@ -1,10 +1,9 @@
-
 ---
-layout: home
-title: "Antonis' Portfolio"
+layout: default
+title: "Antonis Prodromou Portfolio"
 ---
 
-# Welcome to My Portfolio 
+# Welcome to My Portfolio
 
 Fascinated by the challenges and opportunities of Data Analysis and Visualisation, I enjoy working with multi-disciplinary professionals in a constructive and creative way.
 
