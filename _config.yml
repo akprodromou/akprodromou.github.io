@@ -12,7 +12,7 @@ author:
   linkedin: "https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6/"
 
 # Theme settings
-remote_theme: "mmistakes/minimal-mistakes" 
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Plugins 
 plugins:
