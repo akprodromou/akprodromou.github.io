@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Antonis Prodromou Portfolio"
+permalink: /
 ---
 
 # Welcome to My Portfolio
