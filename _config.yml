@@ -1,1 +1,61 @@
+# Site settings
+title: "Antonis Prodromou Portfolio"
+description: "A data visualization and web development portfolio."
+baseurl: "" 
+url: "https://akprodromou.github.io" 
+
+# Author settings
+author:
+  name: "Antonis Prodromou"
+  email: "akprodromou@gmail.com"
+  github: "akprodromou"
+  linkedin: "https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6/"
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes" 
+
+# Plugins 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+
+# Pagination (for blog posts)
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Portfolio"
+    url: "/portfolio/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Portfolio settings
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:name/
+
+# Markdown processor
+markdown: kramdown
+
+# Social media links 
+social:
+  linkedin: "https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6/"
+  github: "https://github.com/akprodromou"
+  email: "akprodromou@gmail.com"
+
+# Footer settings
+footer:
+  show_powered_by: false
+  contact_info: "Reach me at [akprodromou@gmail.com](mailto:akprodromou@gmail.com)"
 
