@@ -5,7 +5,7 @@ title: Antonis Prodromou – Portfolio
 
 # Hi, I'm Antonis
 
-Welcome to my personal portfolio website! I'm a data analyst and web developer passionate about transforming data into stories through **interactive visualizations**, **machine learning**, and **clean design**.
+Welcome to my personal portfolio website! I'm passionate about Data and Behavioural Analysis and Visualisation, and I enjoy working with multi-disciplinary professionals in a constructive and creative way to inform business decision-making.
 
 ---
 
