@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "Portfolio"
+layout: default
+title: Portfolio
 permalink: /portfolio/
 ---
 
-## Featured Projects
+# Featured Projects
 
 - [Customer Churn Prediction](../customer-churn/)
 - [SQL Job Market Analysis](../sql-job-market/)
@@ -15,3 +15,4 @@ permalink: /portfolio/
 - [Fiber Content Graph](../fiber-graph/)
 - [Dietary Factors & Age](../dietary-factors/)
 - [Population Density Map](../population-map/)
+
