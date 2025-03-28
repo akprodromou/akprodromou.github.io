@@ -1,15 +1,33 @@
 ---
 layout: default
-title: "Antonis Prodromou Portfolio"
-permalink: /
+title: Antonis Prodromou – Portfolio
 ---
 
-# Welcome to My Portfolio
+# Hi, I'm Antonis
 
-Fascinated by the challenges and opportunities of Data Analysis and Visualisation, I enjoy working with multi-disciplinary professionals in a constructive and creative way.
+Welcome to my personal portfolio website! I'm a data analyst and web developer passionate about transforming data into stories through **interactive visualizations**, **machine learning**, and **clean design**.
 
-### Featured Projects
-- **D3.js Gut Health Infographic** – An interactive chart explaining microbiota balance.
-- **Creative Web Infographics** – Web-based visualizations.
+---
 
-[Contact me](mailto:akprodromou@gmail.com) | [GitHub](https://github.com/akprodromou) | [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6/)
+## What You'll Find Here
+
+- **Data Analysis Projects** — Python, SQL, and machine learning to explore real-world problems.
+- **Data Visualizations** — Interactive charts and maps built with **D3.js**, **Plotly**, and more.
+- **Gut Health & Nutrition** — Data storytelling focused on the microbiome, fiber, and sugar intake.
+- **Blog & Insights** — Posts on data design, visualization best practices, and more (coming soon!).
+
+---
+
+## Explore My Work
+
+[View My Portfolio](./pages/portfolio.md)  
+[Learn More About Me](./pages/about.md)  
+[Get in Touch](./pages/contact.md)
+
+---
+
+## Connect
+
+- [GitHub](https://github.com/akprodromou)
+- [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6/)
+- Email: akprodromou@gmail.com
