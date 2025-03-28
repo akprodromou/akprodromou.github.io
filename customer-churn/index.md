@@ -18,5 +18,5 @@ This project explores customer churn using a telecom dataset. It applies machine
 - [View Notebook on GitHub](https://github.com/akprodromou/customer-churn-prediction/blob/main/notebooks/churn_modeling.ipynb)
 - [Project Repository](https://github.com/akprodromou/customer-churn-prediction)
 
-<iframe src="https://nbviewer.org/github/akprodromou/customer-churn-prediction/blob/main/notebooks/churn_modeling.ipynb" 
+<iframe src="https://nbviewer.org/github/akprodromou/customer-churn-prediction/blob/main/notebooks/customer-churn-prediction-project.ipynb" 
         width="100%" height="600" frameborder="0"></iframe>
