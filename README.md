@@ -32,7 +32,7 @@ Here are a few featured projects included in the site:
 | [Vanguard A/B Testing](https://github.com/akprodromou/vanguard-ab-testing) | A/B test analysis and visual reporting in Python |
 | [Population Density Map](https://github.com/akprodromou/population-density-map) | Choropleth map with demographic insights |
 
-See the [full portfolio](https://akprodromou.github.io/pages/portfolio.md) for more.
+See the [full portfolio](https://akprodromou.github.io/) for more.
 
 ---
 
