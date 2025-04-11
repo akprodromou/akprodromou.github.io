@@ -7,8 +7,10 @@ permalink: /portfolio/
 # Featured Projects
 
 - <a href="https://github.com/akprodromou/customer-churn-prediction" target="_blank">Customer Churn Prediction</a>
-- <a href="https://github.com/akprodromou/SQL_Job_Market_Analysis" target="_blank">View GitHub Repo</a>
-- [US Federal Funding Cuts](../us-funding/)
+- <a href="https://github.com/akprodromou/SQL_Job_Market_Analysis" target="_blank">SQL Job Market Analysis</a>
+- <a href="https://github.com/akprodromou/US-Federal-Funding-Cuts/raw/main/visualization/U.S.%20Federal%20Funding%20Freeze%20Viz.pdf" target="_blank">
+  U.S. Federal Funding Freeze Visualization
+</a>
 - [Greece Mortality Analysis](../greece-mortality/)
 - [Vanguard A/B Testing](../vanguard-ab/)
 - [Follo Repository](../follo/)
