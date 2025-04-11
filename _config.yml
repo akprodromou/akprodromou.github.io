@@ -1,18 +1,20 @@
 title: "Antonis Prodromou"
 description: "A minimalist portfolio powered by Kagami"
 url: "https://akprodromou.github.io"
-baseurl: ""
+baseurl: ""  # this should stay empty for user pages (not a project page)
 
 github_username: akprodromou
 linkedin_username: antonis-prodromou-1b1bb02a6
 
-baseurl: "/jekyll-theme-kagami"
-lang: en # site language (en/ja/zh-Hans/zh-Hant)
-color_scheme: github # this specifies color scheme for syntax highlighting
+lang: en                          # site language
+color_scheme: github             # syntax highlighting scheme (optional)
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-kagami
+# theme: jekyll-theme-kagami    
+
 exclude:
   - Gemfile
   - Gemfile.lock
+  - .script
+  - example
