@@ -10,9 +10,9 @@ This repository contains the source code for my GitHub Pages portfolio site:
 ## What You'll Find Here
 
 This portfolio showcases my work across:
-- **Data Analysis** using Python, SQL, and machine learning
-- **Data Visualization** with D3.js, Plotly, and other libraries
-- **Web Development** projects for interactive data storytelling
+- **Data Analysis** using Python, R, SQL, and Machine Learning
+- **Data Visualization** with D3.js, Plotly, and Tableau
+- **Web Development** a project for Task Management
 
 The live site includes:
 - A portfolio page linking to all featured projects
