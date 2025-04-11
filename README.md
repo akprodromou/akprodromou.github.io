@@ -17,7 +17,6 @@ This portfolio showcases my work across:
 The live site includes:
 - A portfolio page linking to all featured projects
 - Individual project pages with summaries and visualizations
-- Blog-style pages and content around gut health and data science
 
 ---
 
