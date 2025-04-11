@@ -12,7 +12,7 @@ color_scheme: github # this specifies color scheme for syntax highlighting
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-kagami
+# theme: jekyll-theme-kagami
 exclude:
   - Gemfile
   - Gemfile.lock
