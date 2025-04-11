@@ -20,8 +20,7 @@ Welcome to my personal portfolio website! I'm passionate about Data and Behaviou
 ## Explore My Work
 
 [View My Portfolio](./pages/portfolio.md)  
-[Learn More About Me](./pages/about.md)  
-[Get in Touch](./pages/contact.md)
+[Resume](../Antonis_Prodromou_Resume.pdf)
 
 ---
 
