@@ -14,7 +14,6 @@ Welcome to my personal portfolio website! I'm passionate about Data and Behaviou
 - **Data Analysis Projects** — Python, SQL, and machine learning to explore real-world problems.
 - **Data Visualizations** — Interactive charts and maps built with **D3.js**, **Plotly**, and more.
 - **Gut Health & Nutrition** — Data storytelling focused on the microbiome, fiber, and sugar intake.
-- **Blog & Insights** — Posts on data design, visualization best practices, and more (coming soon!).
 
 ---
 
