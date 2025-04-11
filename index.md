@@ -5,15 +5,14 @@ title: Antonis Prodromou – Portfolio
 
 # Hi, I'm Antonis
 
-Welcome to my personal portfolio website! I'm passionate about Data and Behavioural Analysis and Visualisation, and I enjoy working with multi-disciplinary professionals in a constructive and creative way to inform business decision-making.
+Welcome to my personal portfolio website! I'm interested in Data and Behavioural Analysis and Visualisation, and I enjoy working with multi-disciplinary professionals in a constructive and creative way.
 
 ---
 
 ## What You'll Find Here
 
-- **Data Analysis Projects** — Python, SQL, and machine learning to explore real-world problems.
-- **Data Visualizations** — Interactive charts and maps built with **D3.js**, **Plotly**, and more.
-- **Gut Health & Nutrition** — Data storytelling focused on the microbiome, fiber, and sugar intake.
+- **Data Analysis Projects** — Python, R, SQL, and Machine Learning to explore real-world problems.
+- **Data Visualizations** — Interactive charts and maps built with D3.js, Plotly, and Tableau.
 
 ---
 
