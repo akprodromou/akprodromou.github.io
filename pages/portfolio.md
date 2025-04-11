@@ -7,7 +7,7 @@ permalink: /portfolio/
 # Featured Projects
 
 - [Customer Churn Prediction](../customer-churn/)
-- [SQL Job Market Analysis](https://github.com/akprodromou/SQL_Job_Market_Analysis) 
+- <a href="https://github.com/akprodromou/SQL_Job_Market_Analysis" target="_blank">View GitHub Repo</a>
 - [US Federal Funding Cuts](../us-funding/)
 - [Greece Mortality Analysis](../greece-mortality/)
 - [Vanguard A/B Testing](../vanguard-ab/)
