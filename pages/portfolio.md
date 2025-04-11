@@ -12,7 +12,7 @@ permalink: /portfolio/
 - [Greece Mortality Analysis](../greece-mortality/)
 - [Vanguard A/B Testing](../vanguard-ab/)
 - [Follo Repository](../follo/)
-- [Fiber Content Graph](../fiber-graph/)
+- <a href="https://akprodromou.github.io/fiber-content-graph/" target="_blank">Fiber Content Graph</a>
 - [Dietary Factors & Age](../dietary-factors/)
 - [Population Density Map](../population-map/)
 
