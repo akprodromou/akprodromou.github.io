@@ -1,16 +1,14 @@
-title: My Awesome Blog
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: "Antonis Prodromou"
+description: "A minimalist portfolio powered by Kagami"
+url: "https://akprodromou.github.io"
+baseurl: ""
+
+github_username: akprodromou
+linkedin_username: antonis-prodromou-1b1bb02a6
+
 baseurl: "/jekyll-theme-kagami"
 lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
-github_username: kamikat
-twitter_username: kamikat_bot
-instagram_username: kamikat_bot
 
 # Build settings
 markdown: kramdown
