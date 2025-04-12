@@ -11,7 +11,7 @@ color_scheme: github             # syntax highlighting scheme (optional)
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-kagami    
+theme: kagami
 
 exclude:
   - Gemfile
