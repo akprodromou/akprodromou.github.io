@@ -99,8 +99,7 @@
 @function scut-strip-unit (
   $num
 ) {
-
-  @return math.div($num, $num * 0 + 1);
+  @return $num / $denom;
 
 }
 // Depends on `scut-strip-unit`.
