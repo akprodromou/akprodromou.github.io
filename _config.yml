@@ -1,5 +1,5 @@
 title: "Antonis Prodromou"
-description: "A minimalist portfolio powered by Kagami"
+description: "A minimalist portfolio powered by Minima"
 url: "https://akprodromou.github.io"
 baseurl: ""  # this should stay empty for user pages (not a project page)
 
@@ -18,3 +18,12 @@ exclude:
   - Gemfile.lock
   - .script
   - example
+
+minima:
+  social_links:
+    github: akprodromou
+    linkedin: antonis-prodromou-1b1bb02a6
+
+  header_pages:
+    - index.md
+    - pages/portfolio.md
