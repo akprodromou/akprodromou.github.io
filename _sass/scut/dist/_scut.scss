@@ -5,8 +5,6 @@
 * Docs at http://ramseyinhouse.github.io/scut
 */
 
-@use "sass:math";
-
 @mixin scut-clearfix {
 
   &:after {
