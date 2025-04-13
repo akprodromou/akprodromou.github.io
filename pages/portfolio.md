@@ -16,7 +16,7 @@ An in-depth SQL-based analysis of the Data Analyst job market in the UK, with a 
 A visualization that shifts the focus from individual programs to thematic funding distribution within each department. Instead of looking at just programs, it highlights key themes/topics (words) that receive funding across multiple programs. This makes it easier to identify funding priorities and patterns within each department.
 - <a href="/mortality-rates/" target="_blank">Mortality Rates by Disease in Greece</a>
 This set of charts analyzes trends in mortality rates for major causes of death in Greece, using WHO mortality data.
-- <a href="https://akprodromou.github.io/pages/vanguard-ab.html/" target="_blank">Vanguard A/B Testing</a>
+- <a href="https://akprodromou.github.io/pages/vanguard-ab.html" target="_blank">Vanguard A/B Testing</a>
 This project analyzes an A/B test conducted to evaluate the impact of a new user experience variation (Test) compared to the existing design (Control). The goal was to measure completion rates, time spent on steps, error rates, and drop-off rates to determine whether the Test variation improves user engagement and efficiency.
 - <a href="https://benanton.pythonanywhere.com/accounts/login/?next=/" target="_blank">Follo Task Management App</a>
 A web-based Project Management application built with Python and the Django framework. It is designed to help teams and individuals effectively organize, track, and report on their work.
