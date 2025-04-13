@@ -22,7 +22,7 @@ This project analyzes an A/B test conducted to evaluate the impact of a new user
 A web-based Project Management application built with Python and the Django framework. It is designed to help teams and individuals effectively organize, track, and report on their work.
 - <a href="https://akprodromou.github.io/fiber-content-graph/" target="_blank">Fiber Content Graph</a>
 An interactive data visualization that illustrates fiber content in different food groups, with a focus on gut health.
-- [Dietary Factors & Age](https://akprodromou.github.io/dietary-factors-age/)
+- <a href="https://akprodromou.github.io/dietary-factors-age/" target="_blank">Dietary Factors & Age</a>
 A chart illustrating the dietary intake trends of the Greek population across different age groups.
 - <a href="/population-density/" target="_blank">Population Density Map of Greece</a>
 A map of Greece population density. Data is represented by H3 hexagons with population counts at 400m resolution, as is provided in the Kontur Population dataset (2023).
