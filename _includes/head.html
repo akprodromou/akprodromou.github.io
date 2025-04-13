@@ -1,1 +1,13 @@
+{%- assign title = page.title | default: site.title -%}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
+<title>{{ title }}</title>
+
+<link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+
+{%- if site.minima.social_links -%}
+  {% include social.html %}
+{%- endif -%}
+
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
