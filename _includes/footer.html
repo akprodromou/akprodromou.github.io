@@ -1,12 +1,13 @@
 <link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
 
 <footer class="site-footer h-card">
-  <data class="u-url" value="{{ '/' | relative_url }}"></data>
+<data class="u-url" value="{{ '/' | relative_url }}"></data>
 
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
+<div class="wrapper">
+  <div class="footer-col-wrapper">
+    
+    <!-- Author Info -->
+    <div class="footer-col footer-col-1">
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -17,18 +18,24 @@
           {%- endif %}
         </ul>
       {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+    </div>
+
+    <div class="footer-col footer-col-2">
+      <p>{{ site.description | escape }}</p>
+      <div class="social-icons">
+        <a href="https://github.com/akprodromou" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-github fa-lg"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-linkedin fa-lg"></i>
+        </a>
       </div>
     </div>
 
-    <div class="social-links">
-      <a href="https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6" target="_blank" rel="noopener noreferrer">
-        <i class="fab fa-linkedin fa-lg"></i>
-    </a>
-    </div>
+    <div class="footer-col footer-col-3"></div>
 
   </div>
+</div>
+
 
 </footer>
