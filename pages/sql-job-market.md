@@ -17,7 +17,7 @@ The demand for Data Analysts continues to grow, driven by the need for data-driv
 
 ## 3. Tools Used
 - **SQL** for data querying and analysis
-- **CSV files** for structured data storage
+- **CSV files** to store the data
 - **Git & GitHub** for version control
 
 ## 4. The Analysis
@@ -82,15 +82,7 @@ SQL is the most critical skill, followed by Excel and Python, reinforcing the im
 - **DevOps & automation tools (Airflow, Kubernetes, GitHub) show increasing relevance.**
 - **Traditional programming languages like JavaScript have lower pay in data-focused roles.**
 
-## 6. Conclusions
-
-### Recommended Learning Path
-1. **Master SQL and Python** – These are fundamental for any Data Analyst role.
-2. **Develop strong Cloud & Big Data skills** – Learn AWS, MongoDB, and Airflow.
-3. **Enhance ML & AI expertise** – Gain knowledge in TensorFlow, PyTorch, and Pandas for higher salaries.
-4. **Strengthen BI & Reporting capabilities** – Learn Tableau, Power BI, and Looker.
-
-## 7. Queries used
+## 6. Queries used
 
 1_top_paying_jobs.sql 
 
