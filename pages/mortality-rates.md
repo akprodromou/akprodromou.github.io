@@ -19,7 +19,7 @@ Percentage Change in Mortality Rates Since 2000: However, the second chart - ill
 These trends could suggest that while advancements in cardiovascular healthcare have reduced deaths from heart disease and stroke, no such progress has been made in reducing deaths from dementia-related conditions. This points out to the need for enhanced healthcare policies, better support systems, and increased research into neurodegenerative diseases.
 
 
-*Source: WHO Mortality Database*
-*Coded using Python*
+- *Source: WHO Mortality Database*
+- *Coded using Python*
 
 <embed src="../assets/pdf/mortality-rates.pdf" type="application/pdf" width="100%" height="600px" />
