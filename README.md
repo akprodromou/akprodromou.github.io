@@ -1,6 +1,6 @@
 # Antonis' Portfolio
 
-Welcome to my personal portfolio repository!
+Welcome to my portfolio repository!
 
 This repository contains the source code for my GitHub Pages portfolio site:
 [Visit the live site → akprodromou.github.io](https://akprodromou.github.io/)
