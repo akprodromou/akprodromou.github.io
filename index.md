@@ -5,7 +5,7 @@ title: Antonis Prodromou – Portfolio
 
 # Hi, I'm Antonis
 
-Welcome to my personal portfolio website! I'm interested in Data and Behavioural Analysis and Visualisation, and I enjoy working with multi-disciplinary professionals in a constructive and creative way.
+And this is my portfolio website! I’m interested in data, behavioural analysis and visualisation, and I enjoy working with multi-disciplinary professionals in a constructive and creative way.
 
 ---
 
