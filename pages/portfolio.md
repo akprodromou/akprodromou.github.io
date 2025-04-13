@@ -14,7 +14,7 @@ This project uses an IBM dataset for a fictional telco company operating in the 
 An in-depth SQL-based analysis of the Data Analyst job market in the UK, with a focus on the most in-demand and highest-paying skills. The goal is to identify key trends, optimal skills to learn, and salary insights for professionals looking to break into or advance within the field.
 - <a href="/funding_freeze/" target="_blank">U.S. Federal Funding Freeze Visualization</a>
 A visualization that shifts the focus from individual programs to thematic funding distribution within each department. Instead of looking at just programs, it highlights key themes/topics (words) that receive funding across multiple programs. This makes it easier to identify funding priorities and patterns within each department.
-- [Greece Mortality Analysis](../greece-mortality/)
+- <a href="/mortality_rates/" target="_blank">
 This set of charts analyzes trends in mortality rates for major causes of death in Greece, using WHO mortality data.
 - [Vanguard A/B Testing](../vanguard-ab/)
 This project analyzes an A/B test conducted to evaluate the impact of a new user experience variation (Test) compared to the existing design (Control). The goal was to measure completion rates, time spent on steps, error rates, and drop-off rates to determine whether the Test variation improves user engagement and efficiency.
