@@ -3,7 +3,7 @@ layout: home
 title: Portfolio
 ---
 
-# Hi, I'm Antonis
+## Hi, I'm Antonis
 
 And this is my portfolio website! I’m interested in data, behavioural analysis and visualisation, and I enjoy working with multi-disciplinary professionals in a constructive and creative way.
 
