@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Antonis Prodromou – Portfolio
+title: Portfolio
 ---
 
 # Hi, I'm Antonis
