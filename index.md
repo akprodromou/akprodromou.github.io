@@ -11,15 +11,10 @@ And this is my portfolio website! I’m interested in data, behavioural analysis
 
 ## What You'll Find Here
 
+[My Portfolio](./pages/portfolio.md)  
 - **Data Analysis Projects** — Python, R, SQL, and Machine Learning to explore real-world problems.
 - **Data Visualizations** — Interactive charts and maps built with D3.js, Plotly, and Tableau.
-
----
-
-## Explore My Work
-
-[View My Portfolio](./pages/portfolio.md)  
-[Resume](../Antonis_Prodromou_Resume.pdf)
+<a href="../Antonis_Prodromou_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
 
 ---
 
