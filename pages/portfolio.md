@@ -6,7 +6,9 @@ permalink: /portfolio/
 
 # Featured Projects
 
-- <a href="https://github.com/akprodromou/customer-churn-prediction" target="_blank">Customer Churn Prediction</a>
+
+
+- [Customer Churn Prediction]({{ '/pages/customer-churn.md' | relative_url }})
 This project uses an IBM dataset for a fictional telco company operating in the USA, that provides home phone and Internet services to 7043 customers in California. It aims at examining client data to understand relationships (Explanatory Analysis), employing a machine learning model to predict customer churn (Prediction Modelling), and provide some business recommendations.
 - <a href="https://github.com/akprodromou/SQL_Job_Market_Analysis" target="_blank">SQL Job Market Analysis</a>
 An in-depth SQL-based analysis of the Data Analyst job market in the UK, with a focus on the most in-demand and highest-paying skills. The goal is to identify key trends, optimal skills to learn, and salary insights for professionals looking to break into or advance within the field.
