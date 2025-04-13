@@ -18,7 +18,7 @@ A visualization that shifts the focus from individual programs to thematic fundi
 This set of charts analyzes trends in mortality rates for major causes of death in Greece, using WHO mortality data.
 - <a href="https://akprodromou.github.io/pages/vanguard-ab.html" target="_blank">Vanguard A/B Testing</a>
 This project analyzes an A/B test conducted to evaluate the impact of a new user experience variation (Test) compared to the existing design (Control). The goal was to measure completion rates, time spent on steps, error rates, and drop-off rates to determine whether the Test variation improves user engagement and efficiency.
-- <a href="https://benanton.pythonanywhere.com/accounts/login/?next=/" target="_blank">Follo Task Management App</a>
+- <a href="https://benanton.pythonanywhere.com" target="_blank">Follo Task Management App</a>
 A web-based Project Management application built with Python and the Django framework. It is designed to help teams and individuals effectively organize, track, and report on their work.
 - <a href="https://akprodromou.github.io/fiber-content-graph/" target="_blank">Fiber Content Graph</a>
 An interactive data visualization that illustrates fiber content in different food groups, with a focus on gut health.
