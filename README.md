@@ -1,22 +1,20 @@
 # Antonis' Portfolio
 
-Welcome to my portfolio repository!
+Hi and welcome to my portfolio repository!
 
-This repository contains the source code for my GitHub Pages portfolio site:
+In it, I've stored the source code for my GitHub Pages portfolio site:
 [Visit the live site → akprodromou.github.io](https://akprodromou.github.io/)
 
 ---
 
 ## What You'll Find Here
 
-This portfolio showcases my work across:
-- **Data Analysis** using Python, R, SQL, and Machine Learning
+This portfolio showcases my work in:
+- **Data Analysis** using Python, R and SQL
 - **Data Visualization** with D3.js, Plotly, and Tableau
-- **Web Development** a project for Task Management
+- **Web Development** for a Task Management project
 
-The live site includes:
-- A portfolio page linking to all featured projects
-- Individual project pages with summaries and visualizations
+The live site includes pages linking to all featured projects, with explanations on the code and the methods I used.
 
 ---
 
