@@ -12,7 +12,7 @@ permalink: /portfolio/
 This project uses an IBM dataset for a fictional telco company operating in the USA, that provides home phone and Internet services to 7043 customers in California. It aims at examining client data to understand relationships (Explanatory Analysis), employing a machine learning model to predict customer churn (Prediction Modelling), and provide some business recommendations.
 - <a href="/sql-job-market/" target="_blank">SQL Job Market Analysis</a>
 An in-depth SQL-based analysis of the Data Analyst job market in the UK, with a focus on the most in-demand and highest-paying skills. The goal is to identify key trends, optimal skills to learn, and salary insights for professionals looking to break into or advance within the field.
-- <a href="https://github.com/akprodromou/US-Federal-Funding-Cuts/raw/main/visualization/U.S.%20Federal%20Funding%20Freeze%20Viz.pdf" target="_blank">U.S. Federal Funding Freeze Visualization</a>
+- <a href="/funding_freeze/" target="_blank">U.S. Federal Funding Freeze Visualization</a>
 A visualization that shifts the focus from individual programs to thematic funding distribution within each department. Instead of looking at just programs, it highlights key themes/topics (words) that receive funding across multiple programs. This makes it easier to identify funding priorities and patterns within each department.
 - [Greece Mortality Analysis](../greece-mortality/)
 This set of charts analyzes trends in mortality rates for major causes of death in Greece, using WHO mortality data.
