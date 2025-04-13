@@ -19,11 +19,4 @@ exclude:
   - .script
   - example
 
-minima:
-  social_links:
-    github: akprodromou
-    linkedin: antonis-prodromou-1b1bb02a6
 
-  header_pages:
-    - index.md
-    - pages/portfolio.md
