@@ -3,7 +3,7 @@
 Hi and welcome to my portfolio repository!
 
 In it, I've stored the source code for my GitHub Pages portfolio site:
-[Visit the live site → akprodromou.github.io](https://akprodromou.github.io/)
+[Visit the live site at akprodromou.github.io](https://akprodromou.github.io/)
 
 ---
 
