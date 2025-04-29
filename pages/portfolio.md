@@ -10,8 +10,10 @@ permalink: /portfolio/
 
 - <a href="https://akprodromou.github.io/pages/customer-churn.html" target="_blank">Customer Churn Prediction</a>
 This project uses an IBM dataset for a fictional telco company operating in the USA, that provides home phone and Internet services to 7043 customers in California. It aims at examining client data to understand relationships (Explanatory Analysis), employing a machine learning model to predict customer churn (Prediction Modelling), and provide some business recommendations.
+- <a href="/google_analytics/" target="_blank">Google Analytics Data Analysis (BigQuery)</a>
+This project analyzes anonymized Google Analytics session data from a fictional e-commerce store, using SQL queries in BigQuery. The objective is to understand user behavior, traffic sources, engagement patterns, and key drivers of transactions and revenue.
 - <a href="/sql-job-market/" target="_blank">SQL Job Market Analysis</a>
-An in-depth SQL-based analysis of the Data Analyst job market in the UK, with a focus on the most in-demand and highest-paying skills. The goal is to identify key trends, optimal skills to learn, and salary insights for professionals looking to break into or advance within the field.
+An SQL-based analysis of the Data Analyst job market in the UK, with a focus on the most in-demand and highest-paying skills. The goal is to identify key trends, optimal skills to learn, and salary insights for professionals looking to break into or advance within the field.
 - <a href="/funding_freeze/" target="_blank">U.S. Federal Funding Freeze Visualization</a>
 A visualization that shifts the focus from individual programs to thematic funding distribution within each department. Instead of looking at just programs, it highlights key themes/topics (words) that receive funding across multiple programs. This makes it easier to identify funding priorities and patterns within each department.
 - <a href="/mortality-rates/" target="_blank">Mortality Rates by Disease in Greece</a>
