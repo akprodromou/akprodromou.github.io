@@ -13,6 +13,9 @@ color_scheme: github             # syntax highlighting scheme (optional)
 markdown: kramdown
 theme: minima
 
+include:
+  - pages
+
 exclude:
   - Gemfile
   - Gemfile.lock
