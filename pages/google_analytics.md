@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Google Analytics User Behavior Analysis
+permalink: /google_analytics/
 ---
 
 <iframe 
