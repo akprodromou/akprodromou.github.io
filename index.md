@@ -22,5 +22,5 @@ And this is my portfolio website! I’m interested in data, behavioural analysis
 ## Connect
 
 - [GitHub](https://github.com/akprodromou)
-- [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-1b1bb02a6/)
+- [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-535a4436a/)
 - Email: akprodromou@gmail.com
