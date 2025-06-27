@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Carretta Carretta Occurences in Greece
