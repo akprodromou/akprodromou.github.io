@@ -28,4 +28,5 @@ An interactive data visualization that illustrates fiber content in different fo
 A chart illustrating the dietary intake trends of the Greek population across different age groups.
 - <a href="/population-density/" target="_blank">Population Density Map of Greece</a>
 A map of Greece population density. Data is represented by H3 hexagons with population counts at 400m resolution, as is provided in the Kontur Population dataset (2023).
-
+- <a href="/caretta-caretta-map/" target="_blank">Caretta Caretta Occurences in Greece</a>
+This short project examines ways to create an updated map of environmental data related to Greece, aiming to allow for updated information to be available via executing a Python pipeline.
