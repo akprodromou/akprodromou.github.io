@@ -7,7 +7,8 @@ permalink: /portfolio/
 # Featured Projects
 
 
-
+- <a href="https://air-quality-dataops-thessaloniki.streamlit.app/" target="_blank">Air Quality Monitoring - Thessaloniki</a>
+An end-to-end Air Quality DataOps pipeline that collects, transforms, and predicts pollutant concentrations in Thessaloniki, Greece. Uses open data from the European Environment Agency and meteorological sources, with interactive visualizations for pollutants and weather variables.
 - <a href="https://akprodromou.github.io/pages/customer-churn.html" target="_blank">Customer Churn Prediction</a>
 This project uses an IBM dataset for a fictional telco company operating in the USA, that provides home phone and Internet services to 7043 customers in California. It aims at examining client data to understand relationships (Explanatory Analysis), employing a machine learning model to predict customer churn (Prediction Modelling), and provide some business recommendations.
 - <a href="/google_analytics/" target="_blank">Google Analytics Data Analysis (BigQuery)</a>
