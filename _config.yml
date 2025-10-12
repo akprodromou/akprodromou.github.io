@@ -8,9 +8,12 @@ linkedin_username: antonis-prodromou-1b1bb02a6
 
 lang: en                        
 
+# Build settings
 markdown: kramdown
 
-theme: primer
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme
 
 include:
   - pages
@@ -23,4 +26,5 @@ exclude:
 
 header_pages:
   - index.md
+
 
