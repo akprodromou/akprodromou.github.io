@@ -11,7 +11,7 @@ color_scheme: github
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: primer
 
 include:
   - pages
