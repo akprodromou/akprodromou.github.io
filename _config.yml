@@ -12,6 +12,7 @@ color_scheme: github
 # Build settings
 markdown: kramdown
 theme: primer
+color_scheme: dark
 
 include:
   - pages
