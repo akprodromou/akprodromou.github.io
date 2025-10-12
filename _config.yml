@@ -1,13 +1,13 @@
 title: "Antonis Prodromou"
 description: "A minimalist portfolio"
 url: "https://akprodromou.github.io"
-baseurl: ""  # this should stay empty for user pages (not a project page)
+baseurl: ""  
 
 github_username: akprodromou
 linkedin_username: antonis-prodromou-1b1bb02a6
 
-lang: en                          # site language
-color_scheme: github             # syntax highlighting scheme (optional)
+lang: en                        
+color_scheme: github    
 
 # Build settings
 markdown: kramdown
