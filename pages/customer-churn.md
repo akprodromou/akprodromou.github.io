@@ -4,7 +4,7 @@ title: Customer Churn Prediction
 ---
 
 <iframe 
-  src="https://nbviewer.org/github/akprodromou/customer-churn-prediction/blob/main/notebooks/customer-churn-prediction-project.ipynb" 
+  src="https://akprodromou.github.io/customer-churn-prediction/notebooks/customer-churn-prediction-project.html"
   width="100%" 
   height="900px" 
   frameborder="0"
