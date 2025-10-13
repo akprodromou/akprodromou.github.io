@@ -5,7 +5,7 @@ permalink: /google_analytics/
 ---
 
 <iframe 
-  src="https://nbviewer.org/github/akprodromou/Google-Analytics-User-Analysis/blob/main/notebooks/google_analytics_project.ipynb"
+  src="https://akprodromou.github.io/Google-Analytics-User-Analysis/notebooks/google_analytics_project.html"
   width="100%" 
   height="900px" 
   frameborder="0"
