@@ -36,6 +36,6 @@ See the [full portfolio](https://akprodromou.github.io/) for more.
 
 ## Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-535a4436a/)
+- [LinkedIn](https://www.linkedin.com/in/antony-k-91299b382/)
 - [GitHub](https://github.com/akprodromou)
 - Email: akprodromou@gmail.com
