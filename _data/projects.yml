@@ -1,1 +1,84 @@
 
+- title: Air Quality Monitoring - Thessaloniki
+  link: https://air-quality-dataops-thessaloniki.streamlit.app/
+  image: /assets/images/air-quality.png
+  description: >
+    An end-to-end Air Quality DataOps pipeline that collects, transforms, and predicts pollutant concentrations in Thessaloniki, Greece. Uses open data from the European Environment Agency and meteorological sources, with interactive visualizations for pollutants and weather variables.
+  tags: [DataOps, Streamlit, Machine Learning]
+
+- title: Customer Churn Prediction
+  link: https://akprodromou.github.io/pages/customer-churn.html
+  image: /assets/images/customer-churn.png
+  description: >
+    A machine learning project analyzing IBM’s Telco dataset to predict customer churn and uncover key retention drivers.
+  tags: [Machine Learning, Python, EDA]
+
+- title: Google Analytics Data Analysis (BigQuery)
+  link: /google_analytics/
+  image: /assets/images/google-analytics.png
+  description: >
+    SQL-based exploration of e-commerce user behavior using Google Analytics data in BigQuery.
+  tags: [SQL, BigQuery, Data Analysis]
+
+- title: SQL Job Market Analysis
+  link: /sql-job-market/
+  image: /assets/images/sql-job-market.png
+  description: >
+    Analysis of the Data Analyst job market in the UK to identify the most in-demand and highest-paying skills.
+  tags: [SQL, Data Analysis, Visualization]
+
+- title: U.S. Federal Funding Freeze Visualization
+  link: /funding_freeze/
+  image: /assets/images/funding-freeze.png
+  description: >
+    A thematic visualization focusing on funding distribution within U.S. federal departments, highlighting key topics across programs.
+  tags: [Visualization, D3.js, Data Storytelling]
+
+- title: Mortality Rates by Disease in Greece
+  link: /mortality-rates/
+  image: /assets/images/mortality.png
+  description: >
+    Analysis of WHO data to explore long-term mortality trends across major causes of death in Greece.
+  tags: [Health, Data Visualization, Statistics]
+
+- title: Vanguard A/B Testing
+  link: https://akprodromou.github.io/pages/vanguard-ab.html
+  image: /assets/images/vanguard-ab.png
+  description: >
+    Statistical analysis of an A/B test comparing two user experience designs for completion rates, engagement, and efficiency.
+  tags: [A/B Testing, Statistics, Experimentation]
+
+- title: Follo Task Management App
+  link: https://benanton.pythonanywhere.com
+  image: /assets/images/follo.png
+  description: >
+    A web-based task management app built with Django for tracking and organizing team workflows.
+  tags: [Django, Web App, Project Management]
+
+- title: Fiber Content Graph
+  link: https://akprodromou.github.io/fiber-content-graph/
+  image: /assets/images/fiber.png
+  description: >
+    Interactive D3.js visualization illustrating fiber and sugar content in foods, highlighting gut health relationships.
+  tags: [D3.js, Visualization, Health]
+
+- title: Dietary Factors & Age
+  link: https://akprodromou.github.io/dietary-factors-age/
+  image: /assets/images/diet-age.png
+  description: >
+    Chart illustrating dietary intake trends across different Greek age groups.
+  tags: [Visualization, Health, Data Analysis]
+
+- title: Population Density Map of Greece
+  link: /population-density/
+  image: /assets/images/population-density.png
+  description: >
+    Interactive map visualizing Greece’s population density using H3 hexagonal grid data from the Kontur Population dataset (2023).
+  tags: [Mapping, GIS, Visualization]
+
+- title: Caretta Caretta Occurrences in Greece
+  link: /caretta-caretta-map/
+  image: /assets/images/caretta.png
+  description: >
+    Mapping project visualizing Caretta caretta turtle occurrences across Greece using environmental data pipelines.
+  tags: [Biodiversity, Mapping, Python]
