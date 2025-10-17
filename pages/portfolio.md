@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Featured Projects
+
 
 <h1>Featured Projects</h1>
 
@@ -25,6 +25,8 @@ permalink: /portfolio/
   {% endfor %}
 </div>
 
+
+# Featured Projects
 
 - <a href="https://air-quality-dataops-thessaloniki.streamlit.app/" target="_blank">Air Quality Monitoring - Thessaloniki</a>
 An end-to-end Air Quality DataOps pipeline that collects, transforms, and predicts pollutant concentrations in Thessaloniki, Greece. Uses open data from the European Environment Agency and meteorological sources, with interactive visualizations for pollutants and weather variables.
