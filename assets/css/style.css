@@ -1,91 +1,57 @@
-/* === GLOBAL RESET === */
-body {
-  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-  color: #111;
-  background-color: #fafafa;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-}
-
-/* === PAGE CONTAINER === */
 .projects-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 2rem;
-  margin: 3rem auto;
-  max-width: 1100px;
-  padding: 0 2rem;
+  margin: 2rem auto;
+  max-width: 1200px;
+  padding: 0 4rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
-/* === PROJECT CARD === */
 .project-card {
-  background: #fff;
-  border: 1px solid #e6e6e6;
-  border-radius: 10px;
-  padding: 1.5rem;
+  background: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
   transition: transform 0.2s ease, border-color 0.2s ease;
+  padding: 1.25rem;
 }
 
 .project-card:hover {
-  transform: translateY(-4px);
-  border-color: #000;
+  transform: translateY(-3px);
+  border-color: #333;
 }
 
-/* === IMAGE === */
 .project-card img {
   width: 100%;
-  height: 180px;
+  height: 160px;
   object-fit: cover;
-  border-radius: 6px;
-  margin-bottom: 1rem;
+  border-radius: 4px;
+  margin-bottom: 0.75rem;
   filter: grayscale(100%);
-  transition: filter 0.3s ease;
+  opacity: 0.85;
 }
 
-.project-card:hover img {
-  filter: grayscale(0%);
-}
-
-/* === TEXT === */
 .project-card h3 {
-  font-size: 1.2rem;
-  font-weight: 600;
-  margin: 0.5rem 0 0.75rem 0;
+  margin: 0.75rem 0;
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #1a1a1a;
+  font-family: inherit;
 }
 
-.project-card p {
-  font-size: 0.95rem;
-  color: #444;
-  margin: 0 0 0.5rem 0;
-}
-
-/* === TAGS === */
 .tags {
-  margin-top: 0.8rem;
+  margin-top: 0.75rem;
 }
 
 .tag {
   display: inline-block;
-  background: #000;
-  color: #fff;
+  background: #fff;
+  color: #333;
+  border: 1px solid #d0d0d0;
   padding: 0.25rem 0.7rem;
-  border-radius: 12px;
+  border-radius: 4px;
   font-size: 0.75rem;
-  letter-spacing: 0.02em;
   margin-right: 0.4rem;
-  opacity: 0.85;
-  transition: opacity 0.2s ease;
-}
-
-.tag:hover {
-  opacity: 1;
-}
-
-/* === RESPONSIVE === */
-@media (max-width: 700px) {
-  .projects-grid {
-    grid-template-columns: 1fr;
-    padding: 0 1.5rem;
-  }
+  margin-bottom: 0.3rem;
+  font-family: inherit;
 }
