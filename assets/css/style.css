@@ -47,6 +47,16 @@ body{
   -webkit-text-size-adjust:100%;
 }
 
+.project-card h1{
+  margin: 0;
+  font-size: clamp(1.1rem, 1.8vw, 1.4rem);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--accent);
+  line-height: 1.2;
+  font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+}
+
 /* === PAGE CONTAINER === */
 .projects-grid{
   display:grid;
@@ -100,8 +110,8 @@ body{
 }
 
 /* subtle zoom on hover */
-.project-card:hover img{
-  transform: scale(1.04);
+.project-card:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
 }
 
 /* === CARD CONTENT === */
@@ -124,11 +134,25 @@ body{
 }
 
 .project-card p{
-  margin:0;
+  margin: 0;
   color: var(--muted);
   font-size: .95rem;
-  line-height:1.6;
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* number of lines to show */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
+
+.project-card{
+  cursor: pointer;
+}
+
+.project-card-content {
+  gap: 0.4rem;
+}
+
 
 /* === TAGS === */
 .tags{
