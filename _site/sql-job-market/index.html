@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- _includes/head.html -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+
+<link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+<link
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+  rel="stylesheet"
+  integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+  crossorigin="anonymous"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"
+/>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>SQL Job Market Analysis | Antonis Prodromou</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="SQL Job Market Analysis" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="A minimalist portfolio" />
+<meta property="og:description" content="A minimalist portfolio" />
+<link rel="canonical" href="http://localhost:4000/sql-job-market/" />
+<meta property="og:url" content="http://localhost:4000/sql-job-market/" />
+<meta property="og:site_name" content="Antonis Prodromou" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="SQL Job Market Analysis" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A minimalist portfolio","headline":"SQL Job Market Analysis","url":"http://localhost:4000/sql-job-market/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/styles/style.css">
+  </head>
+  <body class="d-flex flex-column min-vh-100">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="http://localhost:4000/">Antonis Prodromou</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarExample01"
+      aria-controls="navbarExample01"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarExample01">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="#">Features</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+
+    <div class="flex-fill container-lg px-3 my-5 markdown-body">
+      <h1 id="data-analyst-job-market-analysis-uk">Data Analyst Job Market Analysis (UK)</h1>
+
+<h4 id="1-introduction">1. Introduction</h4>
+<p>This project contains an in-depth <strong>SQL-based analysis</strong> of the <strong>Data Analyst job market in the UK</strong>, with a focus on the most in-demand and highest-paying skills. The goal was to identify key trends, optimal skills to learn, and salary insights for professionals looking to break into or advance within the field.</p>
+
+<h4 id="2-background">2. Background</h4>
+<p>The demand for Data Analysts continues to grow, driven by the need for data-driven decision-making across industries. However, not all skills are valued equally in the job market. This project aimed to answer:</p>
+<ul>
+  <li>Which skills are most frequently required in Data Analyst job postings?</li>
+  <li>Which skills lead to the highest salaries?</li>
+  <li>What are the most optimal skills to learn for career advancement?</li>
+</ul>
+
+<h4 id="3-tools-used">3. Tools Used</h4>
+<ul>
+  <li><strong>SQL</strong> for data querying and analysis</li>
+  <li><strong>CSV files</strong> to store the data</li>
+  <li><strong>Git &amp; GitHub</strong> for version control</li>
+</ul>
+
+<h4 id="4-the-analysis">4. The Analysis</h4>
+
+<h5 id="key-queries-and-files">Key Queries and Files</h5>
+
+<p>The project is structured as follows:</p>
+
+<p>project_sql</p>
+
+<ul>
+  <li>1_top_paying_jobs.sql → Identifies the highest-paying jobs</li>
+  <li>2_job_skills_required.sql → Extracts required skills from job postings</li>
+  <li>3_top_demanded_skills.sql → Analyzes skill frequency in job postings</li>
+  <li>4_top_paying_skills.sql → Determines the highest-paying skills</li>
+  <li>5_optimal_skills.sql → Identifies the best skills to learn based on demand and salary</li>
+  <li>top_paying_skills.csv → Processed dataset for further analysis</li>
+</ul>
+
+<p>sql_edit</p>
+
+<ul>
+  <li>2_dates.sql → Handles date-based job data processing</li>
+  <li>3_cases.sql → Manages case-based conditional logic in SQL</li>
+</ul>
+
+<p>sql_load</p>
+
+<ul>
+  <li>1_create_database.sql → Creates the database schema</li>
+  <li>2_create_tables.sql → Defines tables for job postings and skills</li>
+  <li>3_modify_tables.sql → Adjusts table structures for optimized querying</li>
+</ul>
+
+<h4 id="5-outcomes">5. Outcomes</h4>
+
+<h5 id="most-in-demand-skills-for-data-analysts-in-the-uk">Most In-Demand Skills for Data Analysts in the UK</h5>
+
+<table>
+  <thead>
+    <tr>
+      <th>Skill</th>
+      <th>Job Postings Requiring It</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SQL</strong></td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><strong>Excel</strong></td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><strong>Python</strong></td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td><strong>Tableau</strong></td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><strong>R</strong></td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>SQL is the most critical skill, followed by Excel and Python, reinforcing the importance of <strong>data querying, manipulation, and visualization</strong>.</p>
+
+<h5 id="highest-paying-skills">Highest-Paying Skills</h5>
+
+<table>
+  <thead>
+    <tr>
+      <th>Skill</th>
+      <th>Average Salary (£)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>C++</strong></td>
+      <td>177,283</td>
+    </tr>
+    <tr>
+      <td><strong>Pandas</strong></td>
+      <td>177,283</td>
+    </tr>
+    <tr>
+      <td><strong>PyTorch</strong></td>
+      <td>177,283</td>
+    </tr>
+    <tr>
+      <td><strong>NumPy</strong></td>
+      <td>177,283</td>
+    </tr>
+    <tr>
+      <td><strong>TensorFlow</strong></td>
+      <td>177,283</td>
+    </tr>
+    <tr>
+      <td><strong>MongoDB</strong></td>
+      <td>165,000</td>
+    </tr>
+    <tr>
+      <td><strong>AWS</strong></td>
+      <td>131,438</td>
+    </tr>
+    <tr>
+      <td><strong>SQL Server</strong></td>
+      <td>120,379</td>
+    </tr>
+    <tr>
+      <td><strong>Airflow</strong></td>
+      <td>118,140</td>
+    </tr>
+    <tr>
+      <td><strong>JavaScript</strong></td>
+      <td>111,175</td>
+    </tr>
+  </tbody>
+</table>
+
+<h5 id="key-takeaways">Key Takeaways</h5>
+<ul>
+  <li><strong>Machine Learning &amp; AI skills (TensorFlow, PyTorch, NumPy) command top salaries.</strong></li>
+  <li><strong>Big Data &amp; Cloud technologies (MongoDB, AWS, SQL Server) offer strong salaries.</strong></li>
+  <li><strong>SQL-based database skills remain valuable across all salary ranges.</strong></li>
+  <li><strong>DevOps &amp; automation tools (Airflow, Kubernetes, GitHub) show increasing relevance.</strong></li>
+  <li><strong>Traditional programming languages like JavaScript have lower pay in data-focused roles.</strong></li>
+</ul>
+
+<h4 id="6-queries-used">6. Queries used</h4>
+
+<p>1_top_paying_jobs.sql</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/*
+- Identify the top 10 highest-paying Data Analyst roles in the UK.
+- Remove nulls
+*/
+
+SELECT
+    job_id,
+    job_title,
+    job_location,
+    job_schedule_type,
+    salary_year_avg,
+    job_posted_date,
+    company_dim.name AS company_name
+FROM
+    job_postings_fact
+LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
+WHERE
+    job_title_short LIKE '%Data Analyst%' AND
+    job_location LIKE '%UK%' AND
+    salary_year_avg IS NOT NULL
+ORDER BY
+    salary_year_avg DESC
+LIMIT
+    10;
+</code></pre></div></div>
+
+<p>2_job_skills_required.sql</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/* What are the skills required for these roles? */
+
+
+WITH job_paying_jobs AS (
+    SELECT
+        job_id,
+        job_title,
+        job_location,
+        job_schedule_type,
+        salary_year_avg,
+        job_posted_date,
+        company_dim.name AS company_name
+    FROM
+        job_postings_fact
+    LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
+    WHERE
+        job_title_short LIKE '%Data Analyst%' AND
+        job_location LIKE '%UK%' AND
+        salary_year_avg IS NOT NULL
+    ORDER BY
+        salary_year_avg DESC
+    LIMIT
+        10
+)
+
+SELECT
+    job_paying_jobs.*,
+    skills_dim.skills AS skill_required
+FROM job_paying_jobs
+INNER JOIN skills_job_dim ON job_paying_jobs.job_id = skills_job_dim.job_id
+INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
+ORDER BY
+    salary_year_avg DESC;
+</code></pre></div></div>
+
+<p>3_top_demanded_skills.sql</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/*
+- What are the most in-demand skills?
+*/
+
+SELECT 
+    skills_dim.skills AS skill_name,
+    COUNT(job_postings_fact.job_id) AS job_count
+FROM job_postings_fact
+INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id
+INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
+WHERE
+    job_title_short LIKE '%Data Analyst%' AND
+    job_location LIKE '%UK%' AND
+    salary_year_avg IS NOT NULL
+GROUP BY
+    skills_dim.skill_id, skill_name
+ORDER BY
+    job_count DESC
+LIMIT 5;
+</code></pre></div></div>
+
+<p>4_top_paying_skills.sql</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/*
+What are the top skills based on salary?
+*/
+
+SELECT 
+    skills_dim.skills AS skill_name,
+    ROUND(AVG(job_postings_fact.salary_year_avg), 0) AS average_salary
+FROM job_postings_fact
+INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id
+INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
+WHERE
+    job_title_short LIKE '%Data Analyst%'
+    AND job_location LIKE '%UK%' 
+    AND salary_year_avg IS NOT NULL
+GROUP BY
+    skills_dim.skill_id, skill_name
+ORDER BY
+    average_salary DESC
+LIMIT 25;
+</code></pre></div></div>
+
+<p>5_optimal_skills.sql</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/*
+What are the most optimal skills to learn?
+*/
+
+-- combine both CTEs inside a single WITH statement, separating them with a comma
+
+WITH skills_demand AS (
+    SELECT
+        skills_job_dim.skill_id,
+        skills_dim.skills AS skill_name,
+        COUNT(job_postings_fact.job_id) AS job_count
+    FROM job_postings_fact
+    INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id
+    INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
+    WHERE
+        job_title_short LIKE '%Data Analyst%'
+        AND job_location LIKE '%UK%' 
+        AND salary_year_avg IS NOT NULL
+    GROUP BY
+        skills_job_dim.skill_id, skill_name
+),
+average_salaries AS (
+    SELECT
+        skills_job_dim.skill_id,
+        skills_dim.skills AS skill_name,
+        ROUND(AVG(job_postings_fact.salary_year_avg), 0) AS average_salary
+    FROM job_postings_fact
+    INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id
+    INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
+    WHERE
+        job_title_short LIKE '%Data Analyst%'
+        AND job_location LIKE '%UK%' 
+        AND salary_year_avg IS NOT NULL
+    GROUP BY
+        skills_job_dim.skill_id, skill_name
+)
+
+SELECT
+    skills_demand.skill_id,
+    skills_demand.skill_name,
+    job_count,
+    average_salary
+FROM
+    skills_demand
+INNER JOIN
+    average_salaries
+ON
+    skills_demand.skill_id = average_salaries.skill_id
+WHERE
+    job_count &gt; 5
+ORDER BY
+    average_salary DESC,
+    job_count DESC;
+</code></pre></div></div>
+
+<p>3_cases.sql</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>SELECT *
+FROM skills_job_dim
+LIMIT 10;
+
+SELECT *
+FROM job_postings_fact
+LIMIT 10;
+
+SELECT *
+FROM skills_dim
+LIMIT 10;
+
+
+SELECT 
+    COUNT(skills_job_dim.job_id) AS count_of_posts,
+    skills_job_dim.skill_id,
+    skills_dim.skills  AS skill_name
+FROM skills_job_dim
+INNER JOIN job_postings_fact ON job_postings_fact.job_id = skills_job_dim.job_id
+INNER JOIN skills_dim ON skills_dim.skill_id = skills_job_dim.skill_id
+WHERE job_postings_fact.job_location = 'Anywhere'
+GROUP BY skills_job_dim.skill_id, skills_dim.skills
+ORDER BY count_of_posts DESC
+LIMIT 5;
+
+SELECT job_title_short, salary_year_avg
+FROM job_postings_fact
+WHERE EXTRACT(MONTH FROM job_posted_date) IN (1, 2, 3)
+AND salary_year_avg &gt; 70000
+AND job_title_short = 'Data Analyst'
+ORDER BY salary_year_avg DESC
+LIMIT 10;
+</code></pre></div></div>
+
+
+
+    </div>
+
+    <footer class="bg-light py-4 mt-5">
+  <div class="container text-center">
+    <a href="https://github.com/akprodromou" target="_blank" class="me-3 text-decoration-none">
+      <i class="bi bi-github me-1"></i> GitHub
+    </a>
+    <a href="https://www.linkedin.com/in/antony-k-91299b382/" target="_blank" class="text-decoration-none">
+      <i class="bi bi-linkedin me-1"></i> LinkedIn
+    </a>
+  </div>
+</footer>
+  
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
+      integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg="
+      crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

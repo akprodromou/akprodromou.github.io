@@ -7,10 +7,10 @@
   tags: [DataOps, Streamlit, Machine Learning]
 
 - title: Customer Churn Prediction
-  link: https://akprodromou.github.io/pages/customer-churn.html
+  link: /customer-churn/
   image: /assets/images/churn.png
   description: >
-    A machine learning project analyzing IBM’s Telco dataset to predict customer churn and uncover key retention drivers.
+    A machine learning project analyzing IBM’s Telco dataset.
   tags: [Machine Learning, Python, EDA]
 
 - title: Google Analytics Data Analysis (BigQuery)
@@ -42,7 +42,7 @@
   tags: [Health, Data Visualization, Statistics]
 
 - title: Vanguard A/B Testing
-  link: https://akprodromou.github.io/pages/vanguard-ab.html
+  link: /vanguard-ab/
   image: /assets/images/vanguard_ab.png
   description: >
     Statistical analysis of an A/B test comparing two user experience designs for completion rates, engagement, and efficiency.
@@ -56,14 +56,14 @@
   tags: [Django, Web App, Project Management]
 
 - title: Fiber Content Graph
-  link: https://akprodromou.github.io/fiber-content-graph/
+  link: /fiber-graph/
   image: /assets/images/fiber.png
   description: >
     Interactive D3.js visualization illustrating fiber and sugar content in foods, highlighting gut health relationships.
   tags: [D3.js, Visualization, Health]
 
 - title: Dietary Factors & Age
-  link: https://akprodromou.github.io/dietary-factors-age/
+  link: /dietary-factors/
   image: /assets/images/dietary_factors.png
   description: >
     Chart illustrating dietary intake trends across different Greek age groups.
@@ -77,7 +77,7 @@
   tags: [Mapping, GIS, Visualization]
 
 - title: Caretta Caretta Occurrences in Greece
-  link: /caretta-caretta-map/
+  link: /caretta-map/
   image: /assets/images/caretta.png
   description: >
     Mapping project visualizing Caretta caretta turtle occurrences across Greece using environmental data pipelines.

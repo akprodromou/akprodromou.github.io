@@ -7,7 +7,7 @@ title: Portfolio
 
 I’m interested in data, behavioural analysis and visualisation, and I enjoy working with multi-disciplinary professionals in a constructive and creative way.
 
-You can find here my [portfolio](./pages/portfolio.md) as well as my [resume](../Antonis_Prodromou_Resume.pdf).
+You can find here my [portfolio](./portfolio) as well as my [resume](../Antonis_Prodromou_Resume.pdf).
 
 ---
 

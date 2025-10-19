@@ -11,9 +11,9 @@ lang: en
 # Build settings
 markdown: kramdown
 
-remote_theme: pages-themes/primer@v0.6.0
+theme: jekyll-theme-primer
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 include:
   - pages
@@ -27,5 +27,5 @@ exclude:
 header_pages:
   - index.md
 
-
-
+sass:
+  sass_dir: assets/css
