@@ -3,11 +3,14 @@ layout: default
 title: Portfolio
 ---
 
-## Hi, I'm Antonis
+## About me
 
-I’m interested in data, behavioural analysis and visualisation, and I enjoy working with multi-disciplinary professionals in a constructive and creative way.
+I'm Antonis Prodromou and I analyze data to help organizations understand how they operate, make clearer decisions and improve.
 
-You can find here my [portfolio](./portfolio) as well as my [resume](../Antonis_Prodromou_Resume.pdf).
+With a background in engineering and management, I use visuals to show the full picture from different perspectives.
+
+You can view my [portfolio](./portfolio), read my [resume](./resume), or <a href="mailto:&#97;&#107;&#112;&#114;&#111;&#100;&#114;&#111;&#109;&#111;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">email me</a>.
+
 
 ---
 
@@ -15,4 +18,3 @@ You can find here my [portfolio](./portfolio) as well as my [resume](../Antonis_
 
 - [GitHub](https://github.com/akprodromou)
 - [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-535a4436a/)
-- Email: akprodromou@gmail.com
