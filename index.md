@@ -5,7 +5,7 @@ title: Portfolio
 
 ## About me
 
-I'm Antonis and I use data to understand how the world works and share that knowledge with others.
+I use data to understand how the world works and share that knowledge with others.
 
 I build data pipelines and visuals that help organizations uncover how they operate, make clearer decisions and improve. With a background in engineering and management, my aim is to show the full picture hidden in raw information, from different perspectives.
 
@@ -16,4 +16,5 @@ You can view my [portfolio](./portfolio), [resume](./resume), or <a href="mailto
 
 ## Connect
 
+- [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-535a4436a/)
 - [GitHub](https://github.com/akprodromou)
