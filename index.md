@@ -16,5 +16,5 @@ You can view my [portfolio](./portfolio), [resume](./resume), or <a href="mailto
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-535a4436a/)
-- [GitHub](https://github.com/akprodromou)
+<li><a href="https://www.linkedin.com/in/antonis-prodromou-535a4436a/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+<li><a href="https://github.com/akprodromou" target="_blank" rel="noopener noreferrer">GitHub</a></li>
