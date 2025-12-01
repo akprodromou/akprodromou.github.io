@@ -7,14 +7,13 @@ title: Portfolio
 
 I use data to understand how the world works and share that knowledge with others.
 
-I build data pipelines and visuals that help organizations uncover how they operate, make clearer decisions and improve. With a background in engineering and management, my aim is to show the full picture hidden in raw information, from different perspectives.
+I build data pipelines and visuals that help organizations uncover how they operate, make clearer decisions and improve. Having a background in engineering and management, my aim is to show the full picture hidden in raw information, from different perspectives.
 
 You can view my [portfolio](./portfolio), [resume](./resume), or <a href="mailto:&#97;&#107;&#112;&#114;&#111;&#100;&#114;&#111;&#109;&#111;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">email me</a>.
-
 
 ---
 
 ## Connect
 
-<li><a href="https://www.linkedin.com/in/antonis-prodromou-535a4436a/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-<li><a href="https://github.com/akprodromou" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+- [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-535a4436a/)
+- [GitHub](https://github.com/akprodromou)
