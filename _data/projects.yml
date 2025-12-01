@@ -1,6 +1,6 @@
 
 - title: Air Quality Monitoring - Thessaloniki
-  link: https://air-quality-dataops-thessaloniki.streamlit.app/
+  link: https://air-quality-thessaloniki.streamlit.app/
   image: /assets/images/air_quality.png
   description: >
     An end-to-end Air Quality DataOps pipeline that collects, transforms, and predicts pollutant concentrations in Thessaloniki, Greece. Uses open data from the European Environment Agency and meteorological sources, with interactive visualizations for pollutants and weather variables.
