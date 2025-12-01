@@ -1,18 +1,16 @@
-# Antonis' Portfolio
+# Antonis Prodromou Portfolio
 
-Hi and welcome to my portfolio repository!
-
-In it, I've stored the source code for my GitHub Pages portfolio site:
-[Visit the live site at akprodromou.github.io](https://akprodromou.github.io/)
+This repo contains the source code for my GitHub Pages portfolio site:
+[akprodromou.github.io](https://akprodromou.github.io/)
 
 ---
 
 ## What You'll Find Here
 
-This portfolio showcases my work in:
+My portfolio showcases my work in:
 - **Data Analysis** using Python, R and SQL
 - **Data Visualization** with D3.js, Plotly, and Tableau
-- **Web Development** for a Task Management project
+- **Web Development** for a Task Management app
 
 The live site includes pages linking to all featured projects, with explanations on the code and the methods I used.
 
@@ -36,6 +34,6 @@ See the [full portfolio](https://akprodromou.github.io/) for more.
 
 ## Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/antony-k-91299b382/)
+- [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-535a4436a/)
 - [GitHub](https://github.com/akprodromou)
 - Email: akprodromou@gmail.com
