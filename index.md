@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; justify-content: center;">
-  <img src="assets/images/cover-5.gif" alt="bar chart animation" style="max-width: 300px; width: 100%;">
-</div>
-
-
 ## About me
 
 I use data to understand how the world works and share that knowledge with others.
