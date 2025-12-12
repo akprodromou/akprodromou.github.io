@@ -7,7 +7,7 @@ title: Home
 
 I use data to understand how the world works and share that knowledge with others.
 
-My aim is build data pipelines and visuals that help people and organizations realise how they function, make clearer decisions and improve. Having a background in engineering and management, I like to show different perspectives in simple yet playful ways.
+My aim is to present information to people and organizations that explains how they function, leading to better decisions and improvement. To this purpose, I like to show different perspectives in simple yet playful visuals, based on data analysis pipelines.
 
 You can view my [portfolio](./portfolio), [resume](./resume), or <a href="mailto:&#97;&#107;&#112;&#114;&#111;&#100;&#114;&#111;&#109;&#111;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">email me</a>.
 
