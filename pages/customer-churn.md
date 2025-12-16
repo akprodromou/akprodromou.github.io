@@ -5,7 +5,7 @@ permalink: /customer-churn/
 ---
 
 <div class="iframe-container" style="width:100%;">
-  <iframe 
+  <iframe
     src="https://akprodromou.github.io/customer-churn-prediction/notebooks/customer-churn-prediction-project.html"
     title="Customer Churn Prediction"
     frameborder="0"
