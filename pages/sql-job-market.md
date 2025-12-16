@@ -7,7 +7,7 @@ permalink: /sql-job-market/
 # Data Analyst Job Market Analysis (UK)
 
 #### 1. Introduction
-This project contains an in-depth **SQL-based analysis** of the **Data Analyst job market in the UK**, with a focus on the most in-demand and highest-paying skills. The goal was to identify key trends, optimal skills to learn, and salary insights for professionals looking to break into or advance within the field.
+This project contains an **SQL-based analysis** of the **Data Analyst job market in the UK**, with a focus on the most in-demand and highest-paying skills. The goal was to identify key trends, optimal skills to learn, and salary insights for professionals looking to break into or advance within the field.
 
 #### 2. Background
 The demand for Data Analysts continues to grow, driven by the need for data-driven decision-making across industries. However, not all skills are valued equally in the job market. This project aimed to answer:

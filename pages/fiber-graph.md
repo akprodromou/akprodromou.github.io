@@ -6,7 +6,7 @@ permalink: /fiber-graph/
 
 ## Fiber Content Graph
 
-Explore the fiber content across different food categories. This interactive visualization helps you compare and understand the dietary fiber levels in various foods, making it easier to make informed nutritional choices.
+This interactive visualization helps the reader compare and understand the dietary fiber levels in various foods, making it easier to make informed nutritional choices.
 
 <div class="iframe-container" style="width:100%; max-width:100%; margin-top: 1.5rem; overflow: hidden;">
   <iframe 

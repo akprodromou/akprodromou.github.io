@@ -82,3 +82,10 @@
   description: >
     Mapping project visualizing Caretta caretta turtle occurrences across Greece using environmental data pipelines.
   tags: [Biodiversity, Mapping, Python]
+
+- title: A Greek youth ratio Hexbin map
+  link: /youth-hex-map/
+  image: /assets/images/youth-hex-map.png
+  description: >
+    A hexbin map showing the ratio of the 15-29 age group to the total population in Greek municipal units.
+  tags: [Mapping, Statistics, D3.js]
