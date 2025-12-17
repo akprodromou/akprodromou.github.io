@@ -37,9 +37,13 @@ permalink: /resume/
 ---
 
 ## Technical Skills
+
 **Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, Scikit-learn, Tableau, D3.js
+
 **Web Development:** JavaScript, HTML, CSS, Django, MongoDB
+
 **Tools:** Asana, Jira, MS Project, Adobe Suite
+
 **Languages:** English (C2), Spanish (C2), French (C1)
 
 ---
