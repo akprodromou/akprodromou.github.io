@@ -89,3 +89,12 @@
   description: >
     A hexbin map showing the ratio of the 15-29 age group to the total population in Greek municipal units.
   tags: [Mapping, Statistics, D3.js]
+
+- title: An extension to RAEmoLLM - Affective Misinformation Detection Framework
+  link: /raemollm-extension/
+  image: /assets/images/raemollm-extension.png
+  description: >
+    A retrieval-augmented generation framework using emotional cues and in-context 
+    learning to detect cross-domain misinformation. Extended the original RAEmoLLM framework
+    for misinformation detection by combining sentiment valence and certainty scores.
+  tags: [NLP, Misinformation Detection, Transformers]
