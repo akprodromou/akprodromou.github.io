@@ -3,14 +3,7 @@
 This repo contains the source code for my GitHub Pages portfolio site:
 [akprodromou.github.io](https://akprodromou.github.io/)
 
----
-
-## What You'll Find Here
-
-My portfolio showcases my work in:
-- **Data Analysis** using Python, R and SQL
-- **Data Visualization** with D3.js, Plotly, and Tableau
-- **Web Development** for a Task Management app
+In it, you'll find samples of my work related to Data Analysis (using Python, R and SQL), Visualizations with D3.js, Plotly, and Tableau as well as tools for Project Management and Behavioural Science.
 
 The live site includes pages linking to all featured projects, with explanations on the code and the methods I used.
 

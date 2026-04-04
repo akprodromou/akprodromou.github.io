@@ -98,3 +98,11 @@
     learning to detect cross-domain misinformation. Extended the original RAEmoLLM framework
     for misinformation detection by combining sentiment valence and certainty scores.
   tags: [NLP, Misinformation Detection, Transformers]
+
+  - title: The Effect of Behavioural Biases on Financial Decisions
+  link: /behavioural-biases-financial/
+  image: /assets/images/behavioural-biases-financial.jpg
+  description: >
+    A catalogue of 44 biases across three major categories, in line with the taxonomy proposed 
+    by David Peon and Manel Antelo, including some examples from daily life for each.
+  tags: [Behavioural Science, Statistics]
