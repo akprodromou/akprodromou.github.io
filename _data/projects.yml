@@ -1,0 +1,100 @@
+
+- title: Air Quality Monitoring - Thessaloniki
+  link: https://air-quality-thessaloniki.streamlit.app/
+  image: /assets/images/air_quality.png
+  description: >
+    An end-to-end Air Quality DataOps pipeline that collects, transforms, and predicts pollutant concentrations in Thessaloniki, Greece. Uses open data from the European Environment Agency and meteorological sources, with interactive visualizations for pollutants and weather variables.
+  tags: [DataOps, Streamlit, Machine Learning]
+
+- title: Customer Churn Prediction
+  link: /customer-churn/
+  image: /assets/images/churn.png
+  description: >
+    A machine learning project analyzing IBM’s Telco dataset.
+  tags: [Machine Learning, Python, EDA]
+
+- title: Google Analytics Data Analysis (BigQuery)
+  link: /google_analytics/
+  image: /assets/images/google_analytics.png
+  description: >
+    SQL-based exploration of e-commerce user behavior using Google Analytics data in BigQuery.
+  tags: [SQL, BigQuery, Data Analysis]
+
+- title: SQL Job Market Analysis
+  link: /sql-job-market/
+  image: /assets/images/sql_job.png
+  description: >
+    Analysis of the Data Analyst job market in the UK to identify the most in-demand and highest-paying skills.
+  tags: [SQL, Data Analysis, Visualization]
+
+- title: U.S. Federal Funding Freeze Visualization
+  link: /funding_freeze/
+  image: /assets/images/us_federal_funding.png
+  description: >
+    A thematic visualization focusing on funding distribution within U.S. federal departments, highlighting key topics across programs.
+  tags: [Visualization, D3.js, Data Storytelling]
+
+- title: Mortality Rates by Disease in Greece
+  link: /mortality-rates/
+  image: /assets/images/mortality_rates.png
+  description: >
+    Analysis of WHO data to explore long-term mortality trends across major causes of death in Greece.
+  tags: [Health, Data Visualization, Statistics]
+
+- title: Vanguard A/B Testing
+  link: /vanguard-ab/
+  image: /assets/images/vanguard_ab.png
+  description: >
+    Statistical analysis of an A/B test comparing two user experience designs for completion rates, engagement, and efficiency.
+  tags: [A/B Testing, Statistics, Experimentation]
+
+- title: Follo Task Management App
+  link: https://benanton.pythonanywhere.com
+  image: /assets/images/follo.png
+  description: >
+    A web-based task management app built with Django for tracking and organizing team workflows.
+  tags: [Django, Web App, Project Management]
+
+- title: Fiber Content Graph
+  link: /fiber-graph/
+  image: /assets/images/fiber.png
+  description: >
+    Interactive D3.js visualization illustrating fiber and sugar content in foods, highlighting gut health relationships.
+  tags: [D3.js, Visualization, Health]
+
+- title: Dietary Factors & Age
+  link: /dietary-factors/
+  image: /assets/images/dietary_factors.png
+  description: >
+    Chart illustrating dietary intake trends across different Greek age groups.
+  tags: [Visualization, Health, Data Analysis]
+
+- title: Population Density Map of Greece
+  link: /population-density/
+  image: /assets/images/population_density.png
+  description: >
+    Interactive map visualizing Greece’s population density using H3 hexagonal grid data from the Kontur Population dataset (2023).
+  tags: [Mapping, GIS, Visualization]
+
+- title: Caretta Caretta Occurrences in Greece
+  link: /caretta-map/
+  image: /assets/images/caretta.png
+  description: >
+    Mapping project visualizing Caretta caretta turtle occurrences across Greece using environmental data pipelines.
+  tags: [Biodiversity, Mapping, Python]
+
+- title: A Greek youth ratio Hexbin map
+  link: /youth-hex-map/
+  image: /assets/images/youth-hex-map.png
+  description: >
+    A hexbin map showing the ratio of the 15-29 age group to the total population in Greek municipal units.
+  tags: [Mapping, Statistics, D3.js]
+
+- title: An extension to RAEmoLLM - Affective Misinformation Detection Framework
+  link: /raemollm-extension/
+  image: /assets/images/raemollm-extension.png
+  description: >
+    A retrieval-augmented generation framework using emotional cues and in-context 
+    learning to detect cross-domain misinformation. Extended the original RAEmoLLM framework
+    for misinformation detection by combining sentiment valence and certainty scores.
+  tags: [NLP, Misinformation Detection, Transformers]
