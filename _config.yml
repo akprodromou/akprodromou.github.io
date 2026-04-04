@@ -1,31 +1,24 @@
-title: "Antonis Prodromou"
-description: "A minimalist portfolio"
-url: "https://akprodromou.github.io"
-baseurl: ""
+collections:
+  authors:
+    output: true
 
-github_username: akprodromou
-linkedin_username: antonis-prodromou-1b1bb02a6
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
-lang: en
-
-# Build settings
-markdown: kramdown
-
-theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
-
-include:
-  - pages
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - .script
-  - example
-
-header_pages:
-  - index.md
-
-sass:
-  sass_dir: assets/css
+  - jekyll-sitemap
+  - jekyll-seo-tag
